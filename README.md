@@ -3,8 +3,6 @@
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lop3xs_?igsh=MThpa2x2cGYzbGJxOA==)
 
-![Samuel Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samellop3s&hide_progress=true&theme=dark)
-
 ![Samuel GitHub stats](https://github-readme-stats.vercel.app/api?username=samellop3s&show_icons=true&theme=dark)
 
 
