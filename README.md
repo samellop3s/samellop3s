@@ -5,6 +5,7 @@
 
 ![Samuel GitHub stats](https://github-readme-stats.vercel.app/api?username=samellop3s&show_icons=true&theme=dark)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samellop3s&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### languages ​​I use and study:
 
