@@ -18,10 +18,9 @@
 ### languages ​​I use and study:
 
 <div style = "display: inline_block"><br>
-<img aling="center" alt="java" src="https://img.shields.io/badge/Java-FF0000?style=for-the-badge&logo=Java&logoColor=white" />
+<img aling="center" alt="kotlin" src="https://img.shields.io/badge/KOTLIN-0000FF?style=for-the-badge&logo=kotlin&logoColor=white" />
 <img aling="center" alt="oracle" src="https://img.shields.io/badge/ORACLE-FF6347?style=for-the-badge&logo=oracle&logoColor=white" />
-<img aling="center" alt="css3" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
-<img aling="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+
 </div>
 
 
