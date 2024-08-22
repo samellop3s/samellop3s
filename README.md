@@ -20,6 +20,7 @@
 <div style = "display: inline_block"><br>
 <img aling="center" alt="kotlin" src="https://img.shields.io/badge/KOTLIN-0000FF?style=for-the-badge&logo=kotlin&logoColor=white" />
 <img aling="center" alt="oracle" src="https://img.shields.io/badge/ORACLE-FF6347?style=for-the-badge&logo=oracle&logoColor=white" />
+<img aling="center" alt="sqlite" src="https://img.shields.io/badge/SQLITE-FF6347?style=for-the-badge&logo=sqlite&logoColor=white" />
 
 </div>
 
