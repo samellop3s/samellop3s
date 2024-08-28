@@ -4,7 +4,9 @@
 
 ### social media: 
 [![instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lop3xs_?igsh=MThpa2x2cGYzbGJxOA==)
-<a href = "samellop3sprogramas01@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="mailto:samellop3sprogramas01@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=samellop3s&bg_color=000000&color=ffffff&line=ffffff&point=a3a3a3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
