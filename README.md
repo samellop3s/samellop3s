@@ -4,7 +4,7 @@
 
 ### social media: 
 [![instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lop3xs_?igsh=MThpa2x2cGYzbGJxOA==)
-<a href="mailto:samellop3sprogramas01@gmail.com">
+<a href="mailto:samuelferreiralopes6@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 
