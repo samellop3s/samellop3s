@@ -22,8 +22,8 @@
 <div style = "display: inline_block"><br>
 <img aling="center" alt="kotlin" src="https://img.shields.io/badge/KOTLIN-0000FF?style=for-the-badge&logo=kotlin&logoColor=white" />
 <img aling="center" alt="sqlite" src="https://img.shields.io/badge/SQLITE-FF6347?style=for-the-badge&logo=sqlite&logoColor=white" />
-<img aling="center" alt="react" src="https://img.shields.io/badge/REACT-FF6347?style=for-the-badge&logo=sqlite&logoColor=white" />
-<img aling="center" alt="reactnative" src="https://img.shields.io/badge/REACTNATIVE-FF6347?style=for-the-badge&logo=sqlite&logoColor=white" />
+<img aling="center" alt="react" src="https://img.shields.io/badge/REACT-89CFF0?style=for-the-badge&logo=react&logoColor=white" />
+<img aling="center" alt="reactnative" src="https://img.shields.io/badge/REACTNATIVE-F89CFF0?style=for-the-badge&logo=reactnative&logoColor=white" />
 
 </div>
 
