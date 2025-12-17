@@ -17,11 +17,11 @@
 ### languages ​​I use and study:
 
 <div style = "display: inline_block"><br>
-<img aling="center" alt="kotlin" src="https://img.shields.io/badge/KOTLIN-0000FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-<img aling="center" alt="javascript" src="https://img.shields.io/badge/JAVASCRIPT-FF6347?style=for-the-badge&logo=sqlite&logoColor=white" />
-<img aling="center" alt="react" src="https://img.shields.io/badge/REACT-89CFF0?style=for-the-badge&logo=react&logoColor=white" />
-<img aling="center" alt="reactnative" src="https://img.shields.io/badge/REACTNATIVE-89CFF0?style=for-the-badge&logo=reactnative&logoColor=white" />
-
+ <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"/>
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
 </div>
 
 
