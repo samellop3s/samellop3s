@@ -5,12 +5,6 @@
 ### social media: 
 [![instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lop3xs_?igsh=MThpa2x2cGYzbGJxOA==)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samellop3s&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=samellop3s&theme=dark&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
 ### languages ​​I use and study:
 
 <div style = "display: inline_block"><br>
