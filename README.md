@@ -5,8 +5,6 @@
 ### social media: 
 [![instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lop3xs_?igsh=MThpa2x2cGYzbGJxOA==)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=samellop3s&bg_color=000000&color=ffffff&line=ffffff&point=a3a3a3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samellop3s&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
 
 <p align="center">
