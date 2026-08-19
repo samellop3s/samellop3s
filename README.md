@@ -28,7 +28,6 @@ I'm a Software Engineering student and developer focused on backend development,
 ### 📚 Currently learning
 
 * C# / .NET
-* Object-Oriented Programming
 * ASP.NET Core
 * APIs and Backend Development
 * PostgreSQL
