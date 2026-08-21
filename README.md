@@ -13,7 +13,7 @@ I'm a Software Developer focused on backend development, automation and software
 ### 🚀 Technologies I use and study
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,js,postgres,docker,git,github" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,js,postgres,docker,git" />
 </div>
 
 ### 📚 Currently learning
